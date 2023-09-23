@@ -2,7 +2,8 @@
 
 ## About Me
 - 🧑🏼‍🎓 Sophomore, pursuing B.Tech in Information Technology at Vellore Institute of Technology
-- 💻 Data Science Enthusiast
+- 💻 Frontend Developer
+- 🖥️ Data Science Enthusiast
 - 👨🏼‍💻 Python Programmer
 - 🖼️ Graphic Designer
 
