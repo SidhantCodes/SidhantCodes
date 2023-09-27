@@ -13,7 +13,7 @@ feel free to reach out to me via mishrasidhant01@gmail.com or [LinkedIn](https:/
 
 ## Favorite Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=ps,ai,pr,vscode,py,django,nodejs,c,cpp,java,html,css,javascript,bootstrao,react,discord)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ps,ai,pr,vscode,py,django,nodejs,c,cpp,java,html,css,javascript,bootstrap,react,discord)](https://skillicons.dev)
 
 ## What you'll find here?
 - 🌱 A collection of my personal projects, where I've explored various technologies and ideas.
