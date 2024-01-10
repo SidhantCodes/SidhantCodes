@@ -1,4 +1,5 @@
-# Welcome to SidhantCodes
+![White Minimalist Profile LinkedIn Banner](https://github.com/SidhantCodes/SidhantCodes/assets/127239653/5dd36110-a3c3-4c87-b751-e5a3ee9e1f69)
+
 
 ## About Me
 - 🧑🏼‍🎓 Sophomore, pursuing B.Tech in Information Technology at Vellore Institute of Technology
