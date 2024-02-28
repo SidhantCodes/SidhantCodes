@@ -2,10 +2,11 @@
 
 ## About Me
 - 🧑🏼‍🎓 Sophomore, pursuing B.Tech in Information Technology at Vellore Institute of Technology
-- 💻 NextJs Enthusiast
+- 💻 Web Developer
 - 👨🏼‍💻 Data Science Enthusiast
 - 🖼️ Graphic Designer
-
+- 💵 Web3 & Crypto Enthusiast
+- 📒 Hindi, English, Spanish, French
 ## Get In Touch
 
 feel free to reach out to me via mishrasidhant01@gmail.com 
