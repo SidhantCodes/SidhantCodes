@@ -2,8 +2,7 @@
 
 ## About Me
 - 🧑🏼‍🎓 Sophomore, pursuing B.Tech in Information Technology at Vellore Institute of Technology
-- 💻 Web Developer
-- 👨🏼‍💻 Data Science Enthusiast
+- 👨🏼‍💻 NextJs Enthusiast & Web Develoepr
 - 🖼️ Graphic Designer
 - 💵 Web3 & Crypto Enthusiast
 - 📒 Hindi, English, Spanish, French
@@ -14,8 +13,4 @@ feel free to reach out to me via mishrasidhant01@gmail.com
 ## Favorite Technologies
 
 [![My Skills](https://skillicons.dev/icons?i=py,c,cpp,java,html,css,javascript,bootstrap,tailwind,react,angular,nextjs,nodejs,git,docker,figma,mysql,r,anaconda,flask,django,powershell,ps,ai)](https://skillicons.dev)
-
-## What you'll find here?
-- 🌱 A collection of my personal projects, where I've explored various technologies and ideas.
-- 📚 Contributions to open-source projects that align with my interests.
 
