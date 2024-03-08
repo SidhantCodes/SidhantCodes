@@ -10,7 +10,7 @@
 
 feel free to reach out to me via mishrasidhant01@gmail.com 
 
-## Favorite Technologies
+## Technologies I've worked on
 
 [![My Skills](https://skillicons.dev/icons?i=py,c,cpp,java,html,css,javascript,bootstrap,tailwind,react,angular,nextjs,nodejs,git,docker,figma,mysql,r,anaconda,powershell,solidity)](https://skillicons.dev)
 
