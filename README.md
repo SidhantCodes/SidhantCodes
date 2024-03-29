@@ -12,7 +12,7 @@
 ## Languages and Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,py,c,cpp,java,html,css,javascript,bootstrap,jquery,tailwind,react,nextjs,nodejs,git,docker,postgres,mysql,nodejs,express,solidity,linux&perline=11" />
+    <img src="https://skillicons.dev/icons?i=git,py,c,cpp,java,html,css,javascript,bootstrap,jquery,tailwind,react,nextjs,nodejs,docker,postgres,mysql,nodejs,express,solidity,linux&perline=11" />
   </a>
 </p>
 
