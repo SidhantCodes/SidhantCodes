@@ -6,7 +6,7 @@
 - 🖼️ Graphic Designer
 - 💵 Web3 & Crypto Enthusiast
 - 📒 Hindi, English, Spanish, French
-- ✒️ Currently learning Blockchain Development
+- ✒️ Currently learning Django
 - 📧 Feel free to reach out to me via mishrasidhant01@gmail.com 
 
 ## Languages and Tools
