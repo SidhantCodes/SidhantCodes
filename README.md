@@ -1,4 +1,4 @@
-![Hi 👋, I am Sidhant Mishra👾](https://github.com/SidhantCodes/SidhantCodes/assets/127239653/b92cdf63-2dcd-4be9-902f-3c526fb699d6)
+![qwqwqwwqwqwqwqw](https://github.com/SidhantCodes/SidhantCodes/assets/127239653/cc186e6f-8582-4e4b-8703-f8f3d9d46c07)
 
 ## About Me
 - 🧑🏼‍🎓 Sophomore, pursuing B.Tech in Information Technology at Vellore Institute of Technology
