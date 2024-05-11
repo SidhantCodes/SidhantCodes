@@ -21,7 +21,7 @@
 ## Languages and Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,git,py,c,cpp,java,html,css,javascript,bootstrap,jquery,tailwind,react,nextjs,nodejs,express,fastapi,docker,postgres,mysql,solidity,linux&perline=11" />
+    <img src="https://skillicons.dev/icons?i=azure,git,py,c,cpp,java,html,css,javascript,ts,bootstrap,jquery,react,nextjs,nodejs,express,fastapi,docker,postgres,mysql,solidity,linux&perline=11" />
   </a>
 </p>
 
