@@ -12,12 +12,10 @@
 </div>
 
 ## About Me 🙋‍♂️
-- 🧑🏼‍🎓 Pre-Final Year, pursuing B.Tech in Information Technology at Vellore Institute of Technology
-- 👨🏼‍💻 NextJs Enthusiast & Full Stack Developer
-- 📊 Data Science Aficionado
-- ✒️ Currently learning about Generative AI and working with Large Language Models
-- ☁️ Proactively learning cloud computing
-- 📒 English, हिन्दी, Français, Español
+- 🧑‍💻 your fav o.1x dev
+- 🧑🏼‍🎓 Final Year, pursuing B.Tech in Information Technology at Vellore Institute of Technology
+- 💻 NextJs Enthusiast & Full Stack Developer
+- ✒️ Currently learning about Generative AI and working with Large Language Models and cloud computing
 
 ## Technologies I've worked on 👨‍🔬
 <p align="center">
