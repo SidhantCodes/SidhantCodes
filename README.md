@@ -12,7 +12,7 @@
 </div>
 
 ## About Me 🙋‍♂️
-- 🧑‍💻 your fav o.1x dev
+- 🧑‍💻 your fav 0.1x dev
 - 🧑🏼‍🎓 Final Year, pursuing B.Tech in Information Technology at Vellore Institute of Technology
 - 💻 NextJs Enthusiast & Full Stack Developer
 - ✒️ Currently learning about Generative AI and working with Large Language Models and cloud computing
